@@ -16,19 +16,6 @@ output: html_document
 6. Assignment of Activity labels.
 7. Calculation of mean by variables, while grouping by Activity and Subject
 
-## Used variables
-- test_values = Test values data set
-- test_labels = Test labels data set
-- test_subject = Test subject data set
-- test_total = Complete "test" data set
-- train_values = Train values data set
-- train_labels = Train labels data set
-- train_subject = Train subject data set
-- train_total = Complete "Train" data set
-- features = Complete "Features" data set
-- activity_labels = Complete "Activity Labels" data set
-- data_set = Complete data set (combining test and train dataset)
-- data_set_3 = Labeled and subsetted data set (containing only features of interest)
-- groupedData = Final data set with variable means by Activity and Subject
+
 
 
